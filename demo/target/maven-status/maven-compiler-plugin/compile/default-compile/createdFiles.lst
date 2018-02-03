@@ -1,0 +1,5 @@
+groceryapp\services\ShoppingService.class
+groceryapp\DemoApplication.class
+groceryapp\repository\ShoppingListRepository.class
+groceryapp\models\ShoppingList.class
+groceryapp\controllers\ShoppingListController.class
